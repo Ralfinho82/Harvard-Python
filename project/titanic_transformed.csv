@@ -1,0 +1,419 @@
+PassengerId,Name_Trans,Title_Trans,First_Name_Trans,Surename_Trans,Sex,Age_Trans,Survived_Trans,Pclass,SibSp,Embarked,Ticket,Fare_Trans
+892,"Kelly, Mr. James",Mr.,James,Kelly,male,34,died,3,0,Q,330911,7.83
+893,"Wilkes, Mrs. James",Mrs.,James,Wilkes,female,47,survived,3,1,S,363272,7.0
+894,"Myles, Mr. Thomas Francis",Mr.,Thomas,Myles,male,62,died,2,0,Q,240276,9.69
+895,"Wirz, Mr. Albert",Mr.,Albert,Wirz,male,27,died,3,0,S,315154,8.66
+896,"Hirvonen, Mrs. Alexander",Mrs.,Alexander,Hirvonen,female,22,survived,3,1,S,3101298,12.29
+897,"Svensson, Mr. Johan Cervin",Mr.,Johan,Svensson,male,14,died,3,0,S,7538,9.22
+898,"Connolly, Miss. Kate",Miss.,Kate,Connolly,female,30,survived,3,0,Q,330972,7.63
+899,"Caldwell, Mr. Albert Francis",Mr.,Albert,Caldwell,male,26,died,2,1,S,248738,29.0
+900,"Abrahim, Mrs. Joseph",Mrs.,Joseph,Abrahim,female,18,survived,3,0,C,2657,7.23
+901,"Davies, Mr. John Samuel",Mr.,John,Davies,male,21,died,3,2,S,A/4 48871,24.15
+902,"Ilieff, Mr. Ylio",Mr.,Ylio,Ilieff,male,-,died,3,0,S,349220,7.9
+903,"Jones, Mr. Charles Cresson",Mr.,Charles,Jones,male,46,died,1,0,S,694,26.0
+904,"Snyder, Mrs. John Pillsbury",Mrs.,John,Snyder,female,23,survived,1,1,S,21228,82.27
+905,"Howard, Mr. Benjamin",Mr.,Benjamin,Howard,male,63,died,2,1,S,24065,26.0
+906,"Chaffee, Mrs. Herbert Fuller",Mrs.,Herbert,Chaffee,female,47,survived,1,1,S,W.E.P. 5734,61.17
+907,"del Carlo, Mrs. Sebastiano",Mrs.,Sebastiano,del Carlo,female,24,survived,2,1,C,SC/PARIS 2167,27.72
+908,"Keane, Mr. Daniel",Mr.,Daniel,Keane,male,35,died,2,0,Q,233734,12.35
+909,"Assaf, Mr. Gerios",Mr.,Gerios,Assaf,male,21,died,3,0,C,2692,7.22
+910,"Ilmakangas, Miss. Ida Livija",Miss.,Ida,Ilmakangas,female,27,survived,3,1,S,STON/O2. 3101270,7.92
+911,"Assaf Khalil, Mrs. Mariana",Mrs.,Mariana,Assaf Khalil,female,45,survived,3,0,C,2696,7.22
+912,"Rothschild, Mr. Martin",Mr.,Martin,Rothschild,male,55,died,1,1,C,PC 17603,59.4
+913,"Olsen, Master. Artur Karl",Master.,Artur,Olsen,male,9,died,3,0,S,C 17368,3.17
+914,"Flegenheim, Mrs. Alfred",Mrs.,Alfred,Flegenheim,female,-,survived,1,0,S,PC 17598,31.68
+915,"Williams, Mr. Richard Norris II",Mr.,Richard,Williams,male,21,died,1,0,C,PC 17597,61.38
+916,"Ryerson, Mrs. Arthur Larned",Mrs.,Arthur,Ryerson,female,48,survived,1,1,C,PC 17608,262.38
+917,"Robins, Mr. Alexander A",Mr.,Alexander,Robins,male,50,died,3,1,S,A/5. 3337,14.5
+918,"Ostby, Miss. Helene Ragnhild",Miss.,Helene,Ostby,female,22,survived,1,0,C,113509,61.98
+919,"Daher, Mr. Shedid",Mr.,Shedid,Daher,male,22,died,3,0,C,2698,7.22
+920,"Brady, Mr. John Bertram",Mr.,John,Brady,male,41,died,1,0,S,113054,30.5
+921,"Samaan, Mr. Elias",Mr.,Elias,Samaan,male,-,died,3,2,C,2662,21.68
+922,"Louch, Mr. Charles Alexander",Mr.,Charles,Louch,male,50,died,2,1,S,SC/AH 3085,26.0
+923,"Jefferys, Mr. Clifford Thomas",Mr.,Clifford,Jefferys,male,24,died,2,2,S,C.A. 31029,31.5
+924,"Dean, Mrs. Bertram",Mrs.,Bertram,Dean,female,33,survived,3,1,S,C.A. 2315,20.57
+925,"Johnston, Mrs. Andrew G",Mrs.,Andrew,Johnston,female,-,survived,3,1,S,W./C. 6607,23.45
+926,"Mock, Mr. Philipp Edmund",Mr.,Philipp,Mock,male,30,died,1,1,C,13236,57.75
+927,"Katavelas, Mr. Vassilios",Mr.,Vassilios,Katavelas,male,18,died,3,0,C,2682,7.23
+928,"Roth, Miss. Sarah A",Miss.,Sarah,Roth,female,-,survived,3,0,S,342712,8.05
+929,"Cacic, Miss. Manda",Miss.,Manda,Cacic,female,21,survived,3,0,S,315087,8.66
+930,"Sap, Mr. Julius",Mr.,Julius,Sap,male,25,died,3,0,S,345768,9.5
+931,"Hee, Mr. Ling",Mr.,Ling,Hee,male,-,died,3,0,S,1601,56.5
+932,"Karun, Mr. Franz",Mr.,Franz,Karun,male,39,died,3,0,C,349256,13.42
+933,"Franklin, Mr. Thomas Parham",Mr.,Thomas,Franklin,male,-,died,1,0,S,113778,26.55
+934,"Goldsmith, Mr. Nathan",Mr.,Nathan,Goldsmith,male,41,died,3,0,S,SOTON/O.Q. 3101263,7.85
+935,"Corbett, Mrs. Walter H",Mrs.,Walter,Corbett,female,30,survived,2,0,S,237249,13.0
+936,"Kimball, Mrs. Edwin Nelson Jr",Mrs.,Edwin,Kimball,female,45,survived,1,1,S,11753,52.55
+937,"Peltomaki, Mr. Nikolai Johannes",Mr.,Nikolai,Peltomaki,male,25,died,3,0,S,STON/O 2. 3101291,7.92
+938,"Chevre, Mr. Paul Romaine",Mr.,Paul,Chevre,male,45,died,1,0,C,PC 17594,29.7
+939,"Shaughnessy, Mr. Patrick",Mr.,Patrick,Shaughnessy,male,-,died,3,0,Q,370374,7.75
+940,"Bucknell, Mrs. William Robert",Mrs.,William,Bucknell,female,60,survived,1,0,C,11813,76.29
+941,"Coutts, Mrs. William",Mrs.,William,Coutts,female,36,survived,3,0,S,C.A. 37671,15.9
+942,"Smith, Mr. Lucien Philip",Mr.,Lucien,Smith,male,24,died,1,1,S,13695,60.0
+943,"Pulbaum, Mr. Franz",Mr.,Franz,Pulbaum,male,27,died,2,0,C,SC/PARIS 2168,15.03
+944,"Hocking, Miss. Ellen",Miss.,Ellen,Hocking,female,20,survived,2,2,S,29105,23.0
+945,"Fortune, Miss. Ethel Flora",Miss.,Ethel,Fortune,female,28,survived,1,3,S,19950,263.0
+946,"Mangiavacchi, Mr. Serafino Emilio",Mr.,Serafino,Mangiavacchi,male,-,died,2,0,C,SC/A.3 2861,15.58
+947,"Rice, Master. Albert",Master.,Albert,Rice,male,10,died,3,4,Q,382652,29.12
+948,"Cor, Mr. Bartol",Mr.,Bartol,Cor,male,35,died,3,0,S,349230,7.9
+949,"Abelseth, Mr. Olaus Jorgensen",Mr.,Olaus,Abelseth,male,25,died,3,0,S,348122,7.65
+950,"Davison, Mr. Thomas Henry",Mr.,Thomas,Davison,male,-,died,3,1,S,386525,16.1
+951,"Chaudanson, Miss. Victorine",Miss.,Victorine,Chaudanson,female,36,survived,1,0,C,PC 17608,262.38
+952,"Dika, Mr. Mirko",Mr.,Mirko,Dika,male,17,died,3,0,S,349232,7.9
+953,"McCrae, Mr. Arthur Gordon",Mr.,Arthur,McCrae,male,32,died,2,0,S,237216,13.5
+954,"Bjorklund, Mr. Ernst Herbert",Mr.,Ernst,Bjorklund,male,18,died,3,0,S,347090,7.75
+955,"Bradley, Miss. Bridget Delia",Miss.,Bridget,Bradley,female,22,survived,3,0,Q,334914,7.72
+956,"Ryerson, Master. John Borie",Master.,John,Ryerson,male,13,died,1,2,C,PC 17608,262.38
+957,"Corey, Mrs. Percy C",Mrs.,Percy,Corey,female,-,survived,2,0,S,F.C.C. 13534,21.0
+958,"Burns, Miss. Mary Delia",Miss.,Mary,Burns,female,18,survived,3,0,Q,330963,7.88
+959,"Moore, Mr. Clarence Bloomfield",Mr.,Clarence,Moore,male,47,died,1,0,S,113796,42.4
+960,"Tucker, Mr. Gilbert Milligan Jr",Mr.,Gilbert,Tucker,male,31,died,1,0,C,2543,28.54
+961,"Fortune, Mrs. Mark",Mrs.,Mark,Fortune,female,60,survived,1,1,S,19950,263.0
+962,"Mulvihill, Miss. Bertha E",Miss.,Bertha,Mulvihill,female,24,survived,3,0,Q,382653,7.75
+963,"Minkoff, Mr. Lazar",Mr.,Lazar,Minkoff,male,21,died,3,0,S,349211,7.9
+964,"Nieminen, Miss. Manta Josefina",Miss.,Manta,Nieminen,female,29,survived,3,0,S,3101297,7.92
+965,"Ovies y Rodriguez, Mr. Servando",Mr.,Servando,Ovies y Rodriguez,male,28,died,1,0,C,PC 17562,27.72
+966,"Geiger, Miss. Amalie",Miss.,Amalie,Geiger,female,35,survived,1,0,C,113503,211.5
+967,"Keeping, Mr. Edwin",Mr.,Edwin,Keeping,male,32,died,1,0,C,113503,211.5
+968,"Miles, Mr. Frank",Mr.,Frank,Miles,male,-,died,3,0,S,359306,8.05
+969,"Cornell, Mrs. Robert Clifford",Mrs.,Robert,Cornell,female,55,survived,1,2,S,11770,25.7
+970,"Aldworth, Mr. Charles Augustus",Mr.,Charles,Aldworth,male,30,died,2,0,S,248744,13.0
+971,"Doyle, Miss. Elizabeth",Miss.,Elizabeth,Doyle,female,24,survived,3,0,Q,368702,7.75
+972,"Boulos, Master. Akar",Master.,Akar,Boulos,male,6,died,3,1,C,2678,15.25
+973,"Straus, Mr. Isidor",Mr.,Isidor,Straus,male,67,died,1,1,S,PC 17483,221.78
+974,"Case, Mr. Howard Brown",Mr.,Howard,Case,male,49,died,1,0,S,19924,26.0
+975,"Demetri, Mr. Marinko",Mr.,Marinko,Demetri,male,-,died,3,0,S,349238,7.9
+976,"Lamb, Mr. John Joseph",Mr.,John,Lamb,male,-,died,2,0,Q,240261,10.71
+977,"Khalil, Mr. Betros",Mr.,Betros,Khalil,male,-,died,3,1,C,2660,14.45
+978,"Barry, Miss. Julia",Miss.,Julia,Barry,female,27,survived,3,0,Q,330844,7.88
+979,"Badman, Miss. Emily Louisa",Miss.,Emily,Badman,female,18,survived,3,0,S,A/4 31416,8.05
+980,"O'Donoghue, Ms. Bridget",Ms.,Bridget,O'Donoghue,female,-,survived,3,0,Q,364856,7.75
+981,"Wells, Master. Ralph Lester",Master.,Ralph,Wells,male,2,died,2,1,S,29103,23.0
+982,"Dyker, Mrs. Adolf Fredrik",Mrs.,Adolf,Dyker,female,22,survived,3,1,S,347072,13.9
+983,"Pedersen, Mr. Olaf",Mr.,Olaf,Pedersen,male,-,died,3,0,S,345498,7.78
+984,"Davidson, Mrs. Thornton",Mrs.,Thornton,Davidson,female,27,survived,1,1,S,F.C. 12750,52.0
+985,"Guest, Mr. Robert",Mr.,Robert,Guest,male,-,died,3,0,S,376563,8.05
+986,"Birnbaum, Mr. Jakob",Mr.,Jakob,Birnbaum,male,25,died,1,0,C,13905,26.0
+987,"Tenglin, Mr. Gunnar Isidor",Mr.,Gunnar,Tenglin,male,25,died,3,0,S,350033,7.8
+988,"Cavendish, Mrs. Tyrell William",Mrs.,Tyrell,Cavendish,female,76,survived,1,1,S,19877,78.85
+989,"Makinen, Mr. Kalle Edvard",Mr.,Kalle,Makinen,male,29,died,3,0,S,STON/O 2. 3101268,7.92
+990,"Braf, Miss. Elin Ester Maria",Miss.,Elin,Braf,female,20,survived,3,0,S,347471,7.85
+991,"Nancarrow, Mr. William Henry",Mr.,William,Nancarrow,male,33,died,3,0,S,A./5. 3338,8.05
+992,"Stengel, Mrs. Charles Emil Henry",Mrs.,Charles,Stengel,female,43,survived,1,1,C,11778,55.44
+993,"Weisz, Mr. Leopold",Mr.,Leopold,Weisz,male,27,died,2,1,S,228414,26.0
+994,"Foley, Mr. William",Mr.,William,Foley,male,-,died,3,0,Q,365235,7.75
+995,"Johansson Palmquist, Mr. Oskar Leander",Mr.,Oskar,Johansson Palmquist,male,26,died,3,0,S,347070,7.78
+996,"Thomas, Mrs. Alexander",Mrs.,Alexander,Thomas,female,16,survived,3,1,C,2625,8.52
+997,"Holthen, Mr. Johan Martin",Mr.,Johan,Holthen,male,28,died,3,0,S,C 4001,22.52
+998,"Buckley, Mr. Daniel",Mr.,Daniel,Buckley,male,21,died,3,0,Q,330920,7.82
+999,"Ryan, Mr. Edward",Mr.,Edward,Ryan,male,-,died,3,0,Q,383162,7.75
+1000,"Willer, Mr. Aaron",Mr.,Aaron,Willer,male,-,died,3,0,S,3410,8.71
+1001,"Swane, Mr. George",Mr.,George,Swane,male,18,died,2,0,S,248734,13.0
+1002,"Stanton, Mr. Samuel Ward",Mr.,Samuel,Stanton,male,41,died,2,0,C,237734,15.05
+1003,"Shine, Miss. Ellen Natalia",Miss.,Ellen,Shine,female,-,survived,3,0,Q,330968,7.78
+1004,"Evans, Miss. Edith Corse",Miss.,Edith,Evans,female,36,survived,1,0,C,PC 17531,31.68
+1005,"Buckley, Miss. Katherine",Miss.,Katherine,Buckley,female,18,survived,3,0,Q,329944,7.28
+1006,"Straus, Mrs. Isidor",Mrs.,Isidor,Straus,female,63,survived,1,1,S,PC 17483,221.78
+1007,"Chronopoulos, Mr. Demetrios",Mr.,Demetrios,Chronopoulos,male,18,died,3,1,C,2680,14.45
+1008,"Thomas, Mr. John",Mr.,John,Thomas,male,-,died,3,0,C,2681,6.44
+1009,"Sandstrom, Miss. Beatrice Irene",Miss.,Beatrice,Sandstrom,female,1,survived,3,1,S,PP 9549,16.7
+1010,"Beattie, Mr. Thomson",Mr.,Thomson,Beattie,male,36,died,1,0,C,13050,75.24
+1011,"Chapman, Mrs. John Henry",Mrs.,John,Chapman,female,29,survived,2,1,S,SC/AH 29037,26.0
+1012,"Watt, Miss. Bertha J",Miss.,Bertha,Watt,female,12,survived,2,0,S,C.A. 33595,15.75
+1013,"Kiernan, Mr. John",Mr.,John,Kiernan,male,-,died,3,1,Q,367227,7.75
+1014,"Schabert, Mrs. Paul",Mrs.,Paul,Schabert,female,35,survived,1,1,C,13236,57.75
+1015,"Carver, Mr. Alfred John",Mr.,Alfred,Carver,male,28,died,3,0,S,392095,7.25
+1016,"Kennedy, Mr. John",Mr.,John,Kennedy,male,-,died,3,0,Q,368783,7.75
+1017,"Cribb, Miss. Laura Alice",Miss.,Laura,Cribb,female,17,survived,3,0,S,371362,16.1
+1018,"Brobeck, Mr. Karl Rudolf",Mr.,Karl,Brobeck,male,22,died,3,0,S,350045,7.8
+1019,"McCoy, Miss. Alicia",Miss.,Alicia,McCoy,female,-,survived,3,2,Q,367226,23.25
+1020,"Bowenur, Mr. Solomon",Mr.,Solomon,Bowenur,male,42,died,2,0,S,211535,13.0
+1021,"Petersen, Mr. Marius",Mr.,Marius,Petersen,male,24,died,3,0,S,342441,8.05
+1022,"Spinner, Mr. Henry John",Mr.,Henry,Spinner,male,32,died,3,0,S,STON/OQ. 369943,8.05
+1023,"Gracie, Col. Archibald IV",Col.,Archibald,Gracie,male,53,died,1,0,C,113780,28.5
+1024,"Lefebre, Mrs. Frank",Mrs.,Frank,Lefebre,female,-,survived,3,0,S,4133,25.47
+1025,"Thomas, Mr. Charles P",Mr.,Charles,Thomas,male,-,died,3,1,C,2621,6.44
+1026,"Dintcheff, Mr. Valtcho",Mr.,Valtcho,Dintcheff,male,43,died,3,0,S,349226,7.9
+1027,"Carlsson, Mr. Carl Robert",Mr.,Carl,Carlsson,male,24,died,3,0,S,350409,7.85
+1028,"Zakarian, Mr. Mapriededer",Mr.,Mapriededer,Zakarian,male,26,died,3,0,C,2656,7.22
+1029,"Schmidt, Mr. August",Mr.,August,Schmidt,male,26,died,2,0,S,248659,13.0
+1030,"Drapkin, Miss. Jennie",Miss.,Jennie,Drapkin,female,23,survived,3,0,S,SOTON/OQ 392083,8.05
+1031,"Goodwin, Mr. Charles Frederick",Mr.,Charles,Goodwin,male,40,died,3,1,S,CA 2144,46.9
+1032,"Goodwin, Miss. Jessie Allis",Miss.,Jessie,Goodwin,female,10,survived,3,5,S,CA 2144,46.9
+1033,"Daniels, Miss. Sarah",Miss.,Sarah,Daniels,female,33,survived,1,0,S,113781,151.55
+1034,"Ryerson, Mr. Arthur Larned",Mr.,Arthur,Ryerson,male,61,died,1,1,C,PC 17608,262.38
+1035,"Beauchamp, Mr. Henry James",Mr.,Henry,Beauchamp,male,28,died,2,0,S,244358,26.0
+1036,"Lindeberg-Lind, Mr. Erik Gustaf",Mr.,Erik,Lindeberg-Lind,male,42,died,1,0,S,17475,26.55
+1037,"Vander Planke, Mr. Julius",Mr.,Julius,Vander Planke,male,31,died,3,3,S,345763,18.0
+1038,"Hilliard, Mr. Herbert Henry",Mr.,Herbert,Hilliard,male,-,died,1,0,S,17463,51.86
+1039,"Davies, Mr. Evan",Mr.,Evan,Davies,male,22,died,3,0,S,SC/A4 23568,8.05
+1040,"Crafton, Mr. John Bertram",Mr.,John,Crafton,male,-,died,1,0,S,113791,26.55
+1041,"Lahtinen, Rev. William",Rev.,William,Lahtinen,male,30,died,2,1,S,250651,26.0
+1042,"Earnshaw, Mrs. Boulton",Mrs.,Boulton,Earnshaw,female,23,survived,1,0,C,11767,83.16
+1043,"Matinoff, Mr. Nicola",Mr.,Nicola,Matinoff,male,-,died,3,0,C,349255,7.9
+1044,"Storey, Mr. Thomas",Mr.,Thomas,Storey,male,60,died,3,0,S,3701,
+1045,"Klasen, Mrs.",Mrs.,,Klasen,female,36,survived,3,0,S,350405,12.18
+1046,"Asplund, Master. Filip Oscar",Master.,Filip,Asplund,male,13,died,3,4,S,347077,31.39
+1047,"Duquemin, Mr. Joseph",Mr.,Joseph,Duquemin,male,24,died,3,0,S,S.O./P.P. 752,7.55
+1048,"Bird, Miss. Ellen",Miss.,Ellen,Bird,female,29,survived,1,0,S,PC 17483,221.78
+1049,"Lundin, Miss. Olga Elida",Miss.,Olga,Lundin,female,23,survived,3,0,S,347469,7.85
+1050,"Borebank, Mr. John James",Mr.,John,Borebank,male,42,died,1,0,S,110489,26.55
+1051,"Peacock, Mrs. Benjamin",Mrs.,Benjamin,Peacock,female,26,survived,3,0,S,SOTON/O.Q. 3101315,13.78
+1052,"Smyth, Miss. Julia",Miss.,Julia,Smyth,female,-,survived,3,0,Q,335432,7.73
+1053,"Touma, Master. Georges Youssef",Master.,Georges,Touma,male,7,died,3,1,C,2650,15.25
+1054,"Wright, Miss. Marion",Miss.,Marion,Wright,female,26,survived,2,0,S,220844,13.5
+1055,"Pearce, Mr. Ernest",Mr.,Ernest,Pearce,male,-,died,3,0,S,343271,7.0
+1056,"Peruschitz, Rev. Joseph Maria",Rev.,Joseph,Peruschitz,male,41,died,2,0,S,237393,13.0
+1057,"Kink-Heilmann, Mrs. Anton",Mrs.,Anton,Kink-Heilmann,female,26,survived,3,1,S,315153,22.02
+1058,"Brandeis, Mr. Emil",Mr.,Emil,Brandeis,male,48,died,1,0,C,PC 17591,50.5
+1059,"Ford, Mr. Edward Watson",Mr.,Edward,Ford,male,18,died,3,2,S,W./C. 6608,34.38
+1060,"Cassebeer, Mrs. Henry Arthur Jr",Mrs.,Henry,Cassebeer,female,-,survived,1,0,C,17770,27.72
+1061,"Hellstrom, Miss. Hilda Maria",Miss.,Hilda,Hellstrom,female,22,survived,3,0,S,7548,8.96
+1062,"Lithman, Mr. Simon",Mr.,Simon,Lithman,male,-,died,3,0,S,S.O./P.P. 251,7.55
+1063,"Zakarian, Mr. Ortin",Mr.,Ortin,Zakarian,male,27,died,3,0,C,2670,7.22
+1064,"Dyker, Mr. Adolf Fredrik",Mr.,Adolf,Dyker,male,23,died,3,1,S,347072,13.9
+1065,"Torfa, Mr. Assad",Mr.,Assad,Torfa,male,-,died,3,0,C,2673,7.23
+1066,"Asplund, Mr. Carl Oscar Vilhelm Gustafsson",Mr.,Carl,Asplund,male,40,died,3,1,S,347077,31.39
+1067,"Brown, Miss. Edith Eileen",Miss.,Edith,Brown,female,15,survived,2,0,S,29750,39.0
+1068,"Sincock, Miss. Maude",Miss.,Maude,Sincock,female,20,survived,2,0,S,C.A. 33112,36.75
+1069,"Stengel, Mr. Charles Emil Henry",Mr.,Charles,Stengel,male,54,died,1,1,C,11778,55.44
+1070,"Becker, Mrs. Allen Oliver",Mrs.,Allen,Becker,female,36,survived,2,0,S,230136,39.0
+1071,"Compton, Mrs. Alexander Taylor",Mrs.,Alexander,Compton,female,64,survived,1,0,C,PC 17756,83.16
+1072,"McCrie, Mr. James Matthew",Mr.,James,McCrie,male,30,died,2,0,S,233478,13.0
+1073,"Compton, Mr. Alexander Taylor Jr",Mr.,Alexander,Compton,male,37,died,1,1,C,PC 17756,83.16
+1074,"Marvin, Mrs. Daniel Warner",Mrs.,Daniel,Marvin,female,18,survived,1,1,S,113773,53.1
+1075,"Lane, Mr. Patrick",Mr.,Patrick,Lane,male,-,died,3,0,Q,7935,7.75
+1076,"Douglas, Mrs. Frederick Charles",Mrs.,Frederick,Douglas,female,27,survived,1,1,C,PC 17558,247.52
+1077,"Maybery, Mr. Frank Hubert",Mr.,Frank,Maybery,male,40,died,2,0,S,239059,16.0
+1078,"Phillips, Miss. Alice Frances Louisa",Miss.,Alice,Phillips,female,21,survived,2,0,S,S.O./P.P. 2,21.0
+1079,"Davies, Mr. Joseph",Mr.,Joseph,Davies,male,17,died,3,2,S,A/4 48873,8.05
+1080,"Sage, Miss. Ada",Miss.,Ada,Sage,female,-,survived,3,8,S,CA. 2343,69.55
+1081,"Veal, Mr. James",Mr.,James,Veal,male,40,died,2,0,S,28221,13.0
+1082,"Angle, Mr. William A",Mr.,William,Angle,male,34,died,2,1,S,226875,26.0
+1083,"Salomon, Mr. Abraham L",Mr.,Abraham,Salomon,male,-,died,1,0,S,111163,26.0
+1084,"van Billiard, Master. Walter John",Master.,Walter,van Billiard,male,11,died,3,1,S,A/5. 851,14.5
+1085,"Lingane, Mr. John",Mr.,John,Lingane,male,61,died,2,0,Q,235509,12.35
+1086,"Drew, Master. Marshall Brines",Master.,Marshall,Drew,male,8,died,2,0,S,28220,32.5
+1087,"Karlsson, Mr. Julius Konrad Eugen",Mr.,Julius,Karlsson,male,33,died,3,0,S,347465,7.85
+1088,"Spedden, Master. Robert Douglas",Master.,Robert,Spedden,male,6,died,1,0,C,16966,134.5
+1089,"Nilsson, Miss. Berta Olivia",Miss.,Berta,Nilsson,female,18,survived,3,0,S,347066,7.78
+1090,"Baimbrigge, Mr. Charles Robert",Mr.,Charles,Baimbrigge,male,23,died,2,0,S,C.A. 31030,10.5
+1091,"Rasmussen, Mrs.",Mrs.,,Rasmussen,female,-,survived,3,0,S,65305,8.11
+1092,"Murphy, Miss. Nora",Miss.,Nora,Murphy,female,-,survived,3,0,Q,36568,15.5
+1093,"Danbom, Master. Gilbert Sigvard Emanuel",Master.,Gilbert,Danbom,male,0,died,3,0,S,347080,14.4
+1094,"Astor, Col. John Jacob",Col.,John,Astor,male,47,died,1,1,C,PC 17757,227.53
+1095,"Quick, Miss. Winifred Vera",Miss.,Winifred,Quick,female,8,survived,2,1,S,26360,26.0
+1096,"Andrew, Mr. Frank Thomas",Mr.,Frank,Andrew,male,25,died,2,0,S,C.A. 34050,10.5
+1097,"Omont, Mr. Alfred Fernand",Mr.,Alfred,Omont,male,-,died,1,0,C,F.C. 12998,25.74
+1098,"McGowan, Miss. Katherine",Miss.,Katherine,McGowan,female,35,survived,3,0,Q,9232,7.75
+1099,"Collett, Mr. Sidney C Stuart",Mr.,Sidney,Collett,male,24,died,2,0,S,28034,10.5
+1100,"Rosenbaum, Miss. Edith Louise",Miss.,Edith,Rosenbaum,female,33,survived,1,0,C,PC 17613,27.72
+1101,"Delalic, Mr. Redjo",Mr.,Redjo,Delalic,male,25,died,3,0,S,349250,7.9
+1102,"Andersen, Mr. Albert Karvin",Mr.,Albert,Andersen,male,32,died,3,0,S,C 4001,22.52
+1103,"Finoli, Mr. Luigi",Mr.,Luigi,Finoli,male,-,died,3,0,S,SOTON/O.Q. 3101308,7.05
+1104,"Deacon, Mr. Percy William",Mr.,Percy,Deacon,male,17,died,2,0,S,S.O.C. 14879,73.5
+1105,"Howard, Mrs. Benjamin",Mrs.,Benjamin,Howard,female,60,survived,2,1,S,24065,26.0
+1106,"Andersson, Miss. Ida Augusta Margareta",Miss.,Ida,Andersson,female,38,survived,3,4,S,347091,7.78
+1107,"Head, Mr. Christopher",Mr.,Christopher,Head,male,42,died,1,0,S,113038,42.5
+1108,"Mahon, Miss. Bridget Delia",Miss.,Bridget,Mahon,female,-,survived,3,0,Q,330924,7.88
+1109,"Wick, Mr. George Dennick",Mr.,George,Wick,male,57,died,1,1,S,36928,164.87
+1110,"Widener, Mrs. George Dunton",Mrs.,George,Widener,female,50,survived,1,1,C,113503,211.5
+1111,"Thomson, Mr. Alexander Morrison",Mr.,Alexander,Thomson,male,-,died,3,0,S,32302,8.05
+1112,"Duran y More, Miss. Florentina",Miss.,Florentina,Duran y More,female,30,survived,2,1,C,SC/PARIS 2148,13.86
+1113,"Reynolds, Mr. Harold J",Mr.,Harold,Reynolds,male,21,died,3,0,S,342684,8.05
+1114,"Cook, Mrs.",Mrs.,,Cook,female,22,survived,2,0,S,W./C. 14266,10.5
+1115,"Karlsson, Mr. Einar Gervasius",Mr.,Einar,Karlsson,male,21,died,3,0,S,350053,7.8
+1116,"Candee, Mrs. Edward",Mrs.,Edward,Candee,female,53,survived,1,0,C,PC 17606,27.45
+1117,"Moubarek, Mrs. George",Mrs.,George,Moubarek,female,-,survived,3,0,C,2661,15.25
+1118,"Asplund, Mr. Johan Charles",Mr.,Johan,Asplund,male,23,died,3,0,S,350054,7.8
+1119,"McNeill, Miss. Bridget",Miss.,Bridget,McNeill,female,-,survived,3,0,Q,370368,7.75
+1120,"Everett, Mr. Thomas James",Mr.,Thomas,Everett,male,40,died,3,0,S,C.A. 6212,15.1
+1121,"Hocking, Mr. Samuel James Metcalfe",Mr.,Samuel,Hocking,male,36,died,2,0,S,242963,13.0
+1122,"Sweet, Mr. George Frederick",Mr.,George,Sweet,male,14,died,2,0,S,220845,65.0
+1123,"Willard, Miss. Constance",Miss.,Constance,Willard,female,21,survived,1,0,S,113795,26.55
+1124,"Wiklund, Mr. Karl Johan",Mr.,Karl,Wiklund,male,21,died,3,1,S,3101266,6.5
+1125,"Linehan, Mr. Michael",Mr.,Michael,Linehan,male,-,died,3,0,Q,330971,7.88
+1126,"Cumings, Mr. John Bradley",Mr.,John,Cumings,male,39,died,1,1,C,PC 17599,71.28
+1127,"Vendel, Mr. Olof Edvin",Mr.,Olof,Vendel,male,20,died,3,0,S,350416,7.85
+1128,"Warren, Mr. Frank Manley",Mr.,Frank,Warren,male,64,died,1,1,C,110813,75.25
+1129,"Baccos, Mr. Raffull",Mr.,Raffull,Baccos,male,20,died,3,0,C,2679,7.22
+1130,"Hiltunen, Miss. Marta",Miss.,Marta,Hiltunen,female,18,survived,2,1,S,250650,13.0
+1131,"Douglas, Mrs. Walter Donald",Mrs.,Walter,Douglas,female,48,survived,1,1,C,PC 17761,106.42
+1132,"Lindstrom, Mrs. Carl Johan",Mrs.,Carl,Lindstrom,female,55,survived,1,0,C,112377,27.72
+1133,"Christy, Mrs.",Mrs.,,Christy,female,45,survived,2,0,S,237789,30.0
+1134,"Spedden, Mr. Frederic Oakley",Mr.,Frederic,Spedden,male,45,died,1,1,C,16966,134.5
+1135,"Hyman, Mr. Abraham",Mr.,Abraham,Hyman,male,-,died,3,0,S,3470,7.89
+1136,"Johnston, Master. William Arthur",Master.,William,Johnston,male,-,died,3,1,S,W./C. 6607,23.45
+1137,"Kenyon, Mr. Frederick R",Mr.,Frederick,Kenyon,male,41,died,1,1,S,17464,51.86
+1138,"Karnes, Mrs. J Frank",Mrs.,J,Karnes,female,22,survived,2,0,S,F.C.C. 13534,21.0
+1139,"Drew, Mr. James Vivian",Mr.,James,Drew,male,42,died,2,1,S,28220,32.5
+1140,"Hold, Mrs. Stephen",Mrs.,Stephen,Hold,female,29,survived,2,1,S,26707,26.0
+1141,"Khalil, Mrs. Betros",Mrs.,Betros,Khalil,female,-,survived,3,1,C,2660,14.45
+1142,"West, Miss. Barbara J",Miss.,Barbara,West,female,0,survived,2,1,S,C.A. 34651,27.75
+1143,"Abrahamsson, Mr. Abraham August Johannes",Mr.,Abraham,Abrahamsson,male,20,died,3,0,S,SOTON/O2 3101284,7.92
+1144,"Clark, Mr. Walter Miller",Mr.,Walter,Clark,male,27,died,1,1,C,13508,136.78
+1145,"Salander, Mr. Karl Johan",Mr.,Karl,Salander,male,24,died,3,0,S,7266,9.32
+1146,"Wenzel, Mr. Linhart",Mr.,Linhart,Wenzel,male,32,died,3,0,S,345775,9.5
+1147,"MacKay, Mr. George William",Mr.,George,MacKay,male,-,died,3,0,S,C.A. 42795,7.55
+1148,"Mahon, Mr. John",Mr.,John,Mahon,male,-,died,3,0,Q,AQ/4 3130,7.75
+1149,"Niklasson, Mr. Samuel",Mr.,Samuel,Niklasson,male,28,died,3,0,S,363611,8.05
+1150,"Bentham, Miss. Lilian W",Miss.,Lilian,Bentham,female,19,survived,2,0,S,28404,13.0
+1151,"Midtsjo, Mr. Karl Albert",Mr.,Karl,Midtsjo,male,21,died,3,0,S,345501,7.78
+1152,"de Messemaeker, Mr. Guillaume Joseph",Mr.,Guillaume,de Messemaeker,male,36,died,3,1,S,345572,17.4
+1153,"Nilsson, Mr. August Ferdinand",Mr.,August,Nilsson,male,21,died,3,0,S,350410,7.85
+1154,"Wells, Mrs. Arthur Henry",Mrs.,Arthur,Wells,female,29,survived,2,0,S,29103,23.0
+1155,"Klasen, Miss. Gertrud Emilia",Miss.,Gertrud,Klasen,female,1,survived,3,1,S,350405,12.18
+1156,"Portaluppi, Mr. Emilio Ilario Giuseppe",Mr.,Emilio,Portaluppi,male,30,died,2,0,C,C.A. 34644,12.74
+1157,"Lyntakoff, Mr. Stanko",Mr.,Stanko,Lyntakoff,male,-,died,3,0,S,349235,7.9
+1158,"Chisholm, Mr. Roderick Robert Crispin",Mr.,Roderick,Chisholm,male,-,died,1,0,S,112051,0.0
+1159,"Warren, Mr. Charles William",Mr.,Charles,Warren,male,-,died,3,0,S,C.A. 49867,7.55
+1160,"Howard, Miss. May Elizabeth",Miss.,May,Howard,female,-,survived,3,0,S,A. 2. 39186,8.05
+1161,"Pokrnic, Mr. Mate",Mr.,Mate,Pokrnic,male,17,died,3,0,S,315095,8.66
+1162,"McCaffry, Mr. Thomas Francis",Mr.,Thomas,McCaffry,male,46,died,1,0,C,13050,75.24
+1163,"Fox, Mr. Patrick",Mr.,Patrick,Fox,male,-,died,3,0,Q,368573,7.75
+1164,"Clark, Mrs. Walter Miller",Mrs.,Walter,Clark,female,26,survived,1,1,C,13508,136.78
+1165,"Lennon, Miss. Mary",Miss.,Mary,Lennon,female,-,survived,3,1,Q,370371,15.5
+1166,"Saade, Mr. Jean Nassr",Mr.,Jean,Saade,male,-,died,3,0,C,2676,7.22
+1167,"Bryhl, Miss. Dagmar Jenny Ingeborg",Miss.,Dagmar,Bryhl,female,20,survived,2,1,S,236853,26.0
+1168,"Parker, Mr. Clifford Richard",Mr.,Clifford,Parker,male,28,died,2,0,S,SC 14888,10.5
+1169,"Faunthorpe, Mr. Harry",Mr.,Harry,Faunthorpe,male,40,died,2,1,S,2926,26.0
+1170,"Ware, Mr. John James",Mr.,John,Ware,male,30,died,2,1,S,CA 31352,21.0
+1171,"Oxenham, Mr. Percy Thomas",Mr.,Percy,Oxenham,male,22,died,2,0,S,W./C. 14260,10.5
+1172,"Oreskovic, Miss. Jelka",Miss.,Jelka,Oreskovic,female,23,survived,3,0,S,315085,8.66
+1173,"Peacock, Master. Alfred Edward",Master.,Alfred,Peacock,male,0,died,3,1,S,SOTON/O.Q. 3101315,13.78
+1174,"Fleming, Miss. Honora",Miss.,Honora,Fleming,female,-,survived,3,0,Q,364859,7.75
+1175,"Touma, Miss. Maria Youssef",Miss.,Maria,Touma,female,9,survived,3,1,C,2650,15.25
+1176,"Rosblom, Miss. Salli Helena",Miss.,Salli,Rosblom,female,2,survived,3,1,S,370129,20.21
+1177,"Dennis, Mr. William",Mr.,William,Dennis,male,36,died,3,0,S,A/5 21175,7.25
+1178,"Franklin, Mr. Charles",Mr.,Charles,Franklin,male,-,died,3,0,S,SOTON/O.Q. 3101314,7.25
+1179,"Snyder, Mr. John Pillsbury",Mr.,John,Snyder,male,24,died,1,1,S,21228,82.27
+1180,"Mardirosian, Mr. Sarkis",Mr.,Sarkis,Mardirosian,male,-,died,3,0,C,2655,7.23
+1181,"Ford, Mr. Arthur",Mr.,Arthur,Ford,male,-,died,3,0,S,A/5 1478,8.05
+1182,"Rheims, Mr. George Alexander Lucien",Mr.,George,Rheims,male,-,died,1,0,S,PC 17607,39.6
+1183,"Daly, Miss. Margaret Marcella",Miss.,Margaret,Daly,female,30,survived,3,0,Q,382650,6.95
+1184,"Nasr, Mr. Mustafa",Mr.,Mustafa,Nasr,male,-,died,3,0,C,2652,7.23
+1185,"Dodge, Dr. Washington",Dr.,Washington,Dodge,male,53,died,1,1,S,33638,81.86
+1186,"Wittevrongel, Mr. Camille",Mr.,Camille,Wittevrongel,male,36,died,3,0,S,345771,9.5
+1187,"Angheloff, Mr. Minko",Mr.,Minko,Angheloff,male,26,died,3,0,S,349202,7.9
+1188,"Laroche, Miss. Louise",Miss.,Louise,Laroche,female,1,survived,2,1,C,SC/Paris 2123,41.58
+1189,"Samaan, Mr. Hanna",Mr.,Hanna,Samaan,male,-,died,3,2,C,2662,21.68
+1190,"Loring, Mr. Joseph Holland",Mr.,Joseph,Loring,male,30,died,1,0,S,113801,45.5
+1191,"Johansson, Mr. Nils",Mr.,Nils,Johansson,male,29,died,3,0,S,347467,7.85
+1192,"Olsson, Mr. Oscar Wilhelm",Mr.,Oscar,Olsson,male,32,died,3,0,S,347079,7.78
+1193,"Malachard, Mr. Noel",Mr.,Noel,Malachard,male,-,died,2,0,C,237735,15.05
+1194,"Phillips, Mr. Escott Robert",Mr.,Escott,Phillips,male,43,died,2,0,S,S.O./P.P. 2,21.0
+1195,"Pokrnic, Mr. Tome",Mr.,Tome,Pokrnic,male,24,died,3,0,S,315092,8.66
+1196,"McCarthy, Miss. Catherine",Miss.,Catherine,McCarthy,female,-,survived,3,0,Q,383123,7.75
+1197,"Crosby, Mrs. Edward Gifford",Mrs.,Edward,Crosby,female,64,survived,1,1,S,112901,26.55
+1198,"Allison, Mr. Hudson Joshua Creighton",Mr.,Hudson,Allison,male,30,died,1,1,S,113781,151.55
+1199,"Aks, Master. Philip Frank",Master.,Philip,Aks,male,0,died,3,0,S,392091,9.35
+1200,"Hays, Mr. Charles Melville",Mr.,Charles,Hays,male,55,died,1,1,S,12749,93.5
+1201,"Hansen, Mrs. Claus Peter",Mrs.,Claus,Hansen,female,45,survived,3,1,S,350026,14.11
+1202,"Cacic, Mr. Jego Grga",Mr.,Jego,Cacic,male,18,died,3,0,S,315091,8.66
+1203,"Vartanian, Mr. David",Mr.,David,Vartanian,male,22,died,3,0,C,2658,7.22
+1204,"Sadowitz, Mr. Harry",Mr.,Harry,Sadowitz,male,-,died,3,0,S,LP 1588,7.58
+1205,"Carr, Miss. Jeannie",Miss.,Jeannie,Carr,female,37,survived,3,0,Q,368364,7.75
+1206,"White, Mrs. John Stuart",Mrs.,John,White,female,55,survived,1,0,C,PC 17760,135.63
+1207,"Hagardon, Miss. Kate",Miss.,Kate,Hagardon,female,17,survived,3,0,Q,AQ/3. 30631,7.73
+1208,"Spencer, Mr. William Augustus",Mr.,William,Spencer,male,57,died,1,1,C,PC 17569,146.52
+1209,"Rogers, Mr. Reginald Harry",Mr.,Reginald,Rogers,male,19,died,2,0,S,28004,10.5
+1210,"Jonsson, Mr. Nils Hilding",Mr.,Nils,Jonsson,male,27,died,3,0,S,350408,7.85
+1211,"Jefferys, Mr. Ernest Wilfred",Mr.,Ernest,Jefferys,male,22,died,2,2,S,C.A. 31029,31.5
+1212,"Andersson, Mr. Johan Samuel",Mr.,Johan,Andersson,male,26,died,3,0,S,347075,7.78
+1213,"Krekorian, Mr. Neshan",Mr.,Neshan,Krekorian,male,25,died,3,0,C,2654,7.23
+1214,"Nesson, Mr. Israel",Mr.,Israel,Nesson,male,26,died,2,0,S,244368,13.0
+1215,"Rowe, Mr. Alfred G",Mr.,Alfred,Rowe,male,33,died,1,0,S,113790,26.55
+1216,"Kreuchen, Miss. Emilie",Miss.,Emilie,Kreuchen,female,39,survived,1,0,S,24160,211.34
+1217,"Assam, Mr. Ali",Mr.,Ali,Assam,male,23,died,3,0,S,SOTON/O.Q. 3101309,7.05
+1218,"Becker, Miss. Ruth Elizabeth",Miss.,Ruth,Becker,female,12,survived,2,2,S,230136,39.0
+1219,"Rosenshine, Mr. George",Mr.,George,Rosenshine,male,46,died,1,0,C,PC 17585,79.2
+1220,"Clarke, Mr. Charles Valentine",Mr.,Charles,Clarke,male,29,died,2,1,S,2003,26.0
+1221,"Enander, Mr. Ingvar",Mr.,Ingvar,Enander,male,21,died,2,0,S,236854,13.0
+1222,"Davies, Mrs. John Morgan",Mrs.,John,Davies,female,48,survived,2,0,S,C.A. 33112,36.75
+1223,"Dulles, Mr. William Crothers",Mr.,William,Dulles,male,39,died,1,0,C,PC 17580,29.7
+1224,"Thomas, Mr. Tannous",Mr.,Tannous,Thomas,male,-,died,3,0,C,2684,7.22
+1225,"Nakid, Mrs. Said",Mrs.,Said,Nakid,female,19,survived,3,1,C,2653,15.74
+1226,"Cor, Mr. Ivan",Mr.,Ivan,Cor,male,27,died,3,0,S,349229,7.9
+1227,"Maguire, Mr. John Edward",Mr.,John,Maguire,male,30,died,1,0,S,110469,26.0
+1228,"de Brito, Mr. Jose Joaquim",Mr.,Jose,de Brito,male,32,died,2,0,S,244360,13.0
+1229,"Elias, Mr. Joseph",Mr.,Joseph,Elias,male,39,died,3,0,C,2675,7.23
+1230,"Denbury, Mr. Herbert",Mr.,Herbert,Denbury,male,25,died,2,0,S,C.A. 31029,31.5
+1231,"Betros, Master. Seman",Master.,Seman,Betros,male,-,died,3,0,C,2622,7.23
+1232,"Fillbrook, Mr. Joseph Charles",Mr.,Joseph,Fillbrook,male,18,died,2,0,S,C.A. 15185,10.5
+1233,"Lundstrom, Mr. Thure Edvin",Mr.,Thure,Lundstrom,male,32,died,3,0,S,350403,7.58
+1234,"Sage, Mr. John George",Mr.,John,Sage,male,-,died,3,1,S,CA. 2343,69.55
+1235,"Cardeza, Mrs. James Warburton Martinez",Mrs.,James,Cardeza,female,58,survived,1,0,C,PC 17755,512.33
+1236,"van Billiard, Master. James William",Master.,James,van Billiard,male,-,died,3,1,S,A/5. 851,14.5
+1237,"Abelseth, Miss. Karen Marie",Miss.,Karen,Abelseth,female,16,survived,3,0,S,348125,7.65
+1238,"Botsford, Mr. William Hull",Mr.,William,Botsford,male,26,died,2,0,S,237670,13.0
+1239,"Whabee, Mrs. George Joseph",Mrs.,George,Whabee,female,38,survived,3,0,C,2688,7.23
+1240,"Giles, Mr. Ralph",Mr.,Ralph,Giles,male,24,died,2,0,S,248726,13.5
+1241,"Walcroft, Miss. Nellie",Miss.,Nellie,Walcroft,female,31,survived,2,0,S,F.C.C. 13528,21.0
+1242,"Greenfield, Mrs. Leo David",Mrs.,Leo,Greenfield,female,45,survived,1,0,C,PC 17759,63.36
+1243,"Stokes, Mr. Philip Joseph",Mr.,Philip,Stokes,male,25,died,2,0,S,F.C.C. 13540,10.5
+1244,"Dibden, Mr. William",Mr.,William,Dibden,male,18,died,2,0,S,S.O.C. 14879,73.5
+1245,"Herman, Mr. Samuel",Mr.,Samuel,Herman,male,49,died,2,1,S,220845,65.0
+1246,"Dean, Miss. Elizabeth Gladys",Miss.,Elizabeth,Dean,female,0,survived,3,1,S,C.A. 2315,20.57
+1247,"Julian, Mr. Henry Forbes",Mr.,Henry,Julian,male,50,died,1,0,S,113044,26.0
+1248,"Brown, Mrs. John Murray",Mrs.,John,Brown,female,59,survived,1,2,S,11769,51.48
+1249,"Lockyer, Mr. Edward",Mr.,Edward,Lockyer,male,-,died,3,0,S,1222,7.88
+1250,"O'Keefe, Mr. Patrick",Mr.,Patrick,O'Keefe,male,-,died,3,0,Q,368402,7.75
+1251,"Lindell, Mrs. Edvard Bengtsson",Mrs.,Edvard,Lindell,female,30,survived,3,1,S,349910,15.55
+1252,"Sage, Master. William Henry",Master.,William,Sage,male,14,died,3,8,S,CA. 2343,69.55
+1253,"Mallet, Mrs. Albert",Mrs.,Albert,Mallet,female,24,survived,2,1,C,S.C./PARIS 2079,37.0
+1254,"Ware, Mrs. John James",Mrs.,John,Ware,female,31,survived,2,0,S,CA 31352,21.0
+1255,"Strilic, Mr. Ivan",Mr.,Ivan,Strilic,male,27,died,3,0,S,315083,8.66
+1256,"Harder, Mrs. George Achilles",Mrs.,George,Harder,female,25,survived,1,1,C,11765,55.44
+1257,"Sage, Mrs. John",Mrs.,John,Sage,female,-,survived,3,1,S,CA. 2343,69.55
+1258,"Caram, Mr. Joseph",Mr.,Joseph,Caram,male,-,died,3,1,C,2689,14.46
+1259,"Riihivouri, Miss. Susanna Juhantytar",Miss.,Susanna,Riihivouri,female,22,survived,3,0,S,3101295,39.69
+1260,"Gibson, Mrs. Leonard",Mrs.,Leonard,Gibson,female,45,survived,1,0,C,112378,59.4
+1261,"Pallas y Castello, Mr. Emilio",Mr.,Emilio,Pallas y Castello,male,29,died,2,0,C,SC/PARIS 2147,13.86
+1262,"Giles, Mr. Edgar",Mr.,Edgar,Giles,male,21,died,2,1,S,28133,11.5
+1263,"Wilson, Miss. Helen Alice",Miss.,Helen,Wilson,female,31,survived,1,0,C,16966,134.5
+1264,"Ismay, Mr. Joseph Bruce",Mr.,Joseph,Ismay,male,49,died,1,0,S,112058,0.0
+1265,"Harbeck, Mr. William H",Mr.,William,Harbeck,male,44,died,2,0,S,248746,13.0
+1266,"Dodge, Mrs. Washington",Mrs.,Washington,Dodge,female,54,survived,1,1,S,33638,81.86
+1267,"Bowen, Miss. Grace Scott",Miss.,Grace,Bowen,female,45,survived,1,0,C,PC 17608,262.38
+1268,"Kink, Miss. Maria",Miss.,Maria,Kink,female,22,survived,3,2,S,315152,8.66
+1269,"Cotterill, Mr. Henry",Mr.,Henry,Cotterill,male,21,died,2,0,S,29107,11.5
+1270,"Hipkins, Mr. William Edward",Mr.,William,Hipkins,male,55,died,1,0,S,680,50.0
+1271,"Asplund, Master. Carl Edgar",Master.,Carl,Asplund,male,5,died,3,4,S,347077,31.39
+1272,"O'Connor, Mr. Patrick",Mr.,Patrick,O'Connor,male,-,died,3,0,Q,366713,7.75
+1273,"Foley, Mr. Joseph",Mr.,Joseph,Foley,male,26,died,3,0,Q,330910,7.88
+1274,"Risien, Mrs. Samuel",Mrs.,Samuel,Risien,female,-,survived,3,0,S,364498,14.5
+1275,"McNamee, Mrs. Neal",Mrs.,Neal,McNamee,female,19,survived,3,1,S,376566,16.1
+1276,"Wheeler, Mr. Edwin",Mr.,Edwin,Wheeler,male,-,died,2,0,S,SC/PARIS 2159,12.88
+1277,"Herman, Miss. Kate",Miss.,Kate,Herman,female,24,survived,2,1,S,220845,65.0
+1278,"Aronsson, Mr. Ernst Axel Algot",Mr.,Ernst,Aronsson,male,24,died,3,0,S,349911,7.78
+1279,"Ashby, Mr. John",Mr.,John,Ashby,male,57,died,2,0,S,244346,13.0
+1280,"Canavan, Mr. Patrick",Mr.,Patrick,Canavan,male,21,died,3,0,Q,364858,7.75
+1281,"Palsson, Master. Paul Folke",Master.,Paul,Palsson,male,6,died,3,3,S,349909,21.07
+1282,"Payne, Mr. Vivian Ponsonby",Mr.,Vivian,Payne,male,23,died,1,0,S,12749,93.5
+1283,"Lines, Mrs. Ernest H",Mrs.,Ernest,Lines,female,51,survived,1,0,S,PC 17592,39.4
+1284,"Abbott, Master. Eugene Joseph",Master.,Eugene,Abbott,male,13,died,3,0,S,C.A. 2673,20.25
+1285,"Gilbert, Mr. William",Mr.,William,Gilbert,male,47,died,2,0,S,C.A. 30769,10.5
+1286,"Kink-Heilmann, Mr. Anton",Mr.,Anton,Kink-Heilmann,male,29,died,3,3,S,315153,22.02
+1287,"Smith, Mrs. Lucien Philip",Mrs.,Lucien,Smith,female,18,survived,1,1,S,13695,60.0
+1288,"Colbert, Mr. Patrick",Mr.,Patrick,Colbert,male,24,died,3,0,Q,371109,7.25
+1289,"Frolicher-Stehli, Mrs. Maxmillian",Mrs.,Maxmillian,Frolicher-Stehli,female,48,survived,1,1,C,13567,79.2
+1290,"Larsson-Rondberg, Mr. Edvard A",Mr.,Edvard,Larsson-Rondberg,male,22,died,3,0,S,347065,7.78
+1291,"Conlon, Mr. Thomas Henry",Mr.,Thomas,Conlon,male,31,died,3,0,Q,21332,7.73
+1292,"Bonnell, Miss. Caroline",Miss.,Caroline,Bonnell,female,30,survived,1,0,S,36928,164.87
+1293,"Gale, Mr. Harry",Mr.,Harry,Gale,male,38,died,2,1,S,28664,21.0
+1294,"Gibson, Miss. Dorothy Winifred",Miss.,Dorothy,Gibson,female,22,survived,1,0,C,112378,59.4
+1295,"Carrau, Mr. Jose Pedro",Mr.,Jose,Carrau,male,17,died,1,0,S,113059,47.1
+1296,"Frauenthal, Mr. Isaac Gerald",Mr.,Isaac,Frauenthal,male,43,died,1,1,C,17765,27.72
+1297,"Nourney, Mr. Alfred",Mr.,Alfred,Nourney,male,20,died,2,0,C,SC/PARIS 2166,13.86
+1298,"Ware, Mr. William Jeffery",Mr.,William,Ware,male,23,died,2,1,S,28666,10.5
+1299,"Widener, Mr. George Dunton",Mr.,George,Widener,male,50,died,1,1,C,113503,211.5
+1300,"Riordan, Miss. Johanna",Miss.,Johanna,Riordan,female,-,survived,3,0,Q,334915,7.72
+1301,"Peacock, Miss. Treasteall",Miss.,Treasteall,Peacock,female,3,survived,3,1,S,SOTON/O.Q. 3101315,13.78
+1302,"Naughton, Miss. Hannah",Miss.,Hannah,Naughton,female,-,survived,3,0,Q,365237,7.75
+1303,"Minahan, Mrs. William Edward",Mrs.,William,Minahan,female,37,survived,1,1,Q,19928,90.0
+1304,"Henriksson, Miss. Jenny Lovisa",Miss.,Jenny,Henriksson,female,28,survived,3,0,S,347086,7.78
+1305,"Spector, Mr. Woolf",Mr.,Woolf,Spector,male,-,died,3,0,S,A.5. 3236,8.05
+1306,"Oliva y Ocana, Dona. Fermina",Dona.,Fermina,Oliva y Ocana,female,39,survived,1,0,C,PC 17758,108.9
+1307,"Saether, Mr. Simon Sivertsen",Mr.,Simon,Saether,male,38,died,3,0,S,SOTON/O.Q. 3101262,7.25
+1308,"Ware, Mr. Frederick",Mr.,Frederick,Ware,male,-,died,3,0,S,359309,8.05
+1309,"Peter, Master. Michael J",Master.,Michael,Peter,male,-,died,3,1,C,2668,22.36
